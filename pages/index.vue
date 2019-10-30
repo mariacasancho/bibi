@@ -31,10 +31,16 @@
       </card>
 
       <card
-        title="Lightweight"
+        title="test"
         icon="arrange-bring-to-front"
       >
         No other internal dependency
+      </card>
+      
+      <card
+        title="Lightweight"
+      >
+        adding a new card and trying responsive
       </card>
     </div>
   </section>
